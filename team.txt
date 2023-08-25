@@ -1,7 +1,7 @@
 TeamBirlik|BirlikJoker95
-TeamTayfa|TAYFAPA50
-TeamOx|OXOPEN15
-TeamYon|YONWEW
+TeamTayfa|TAYFAPA52
+TeamOx|OXOPEN16
+TeamYon|YONKOL
 TeamJu|JuRemote
 TeamOcta|OctaSaw
 TeamRudy|RUDGO8
