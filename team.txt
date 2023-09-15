@@ -1,12 +1,12 @@
 TeamBirlik|BirlikJoker95
 TeamTayfa|TAYFAPA52
 TeamOx|OXOPEN16
-TeamYon|YONKOL
-TeamJu|JuRemote
+TeamYon|YONVEM
+TeamJu|JuOnTop
 TeamOcta|OctaSaw
 TeamRudy|RUDGO8
 TeamCong|CONGJAN
-TeamDrey|DREYLONG
+TeamDrey|DREYJUVE
 TeamAsia|ASIACUT
 TeamDav|DAVKEBAB
 TeamEvo|EVOS
@@ -14,7 +14,7 @@ TeamBub|BUBDANA
 TeamNaz|NAZNAGA
 TeamReady|READYSO5
 TeamPH|TXCOOL
-TeamAO|AOREME2
+TeamAO|AOREBORN2
 TeamHuge|HGFURY
 TeamCumback|CBTASAN
 TeamFlip|FLIPWIN5
