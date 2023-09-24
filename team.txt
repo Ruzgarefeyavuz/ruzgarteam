@@ -9,7 +9,7 @@ TeamCong|CONGJAN
 TeamDrey|DREYJUVE
 TeamAsia|ASIACUT
 TeamDav|DAVKEBAB
-TeamEvo|EVOS
+TeamEvo|EVOZERO
 TeamBub|BUBDANA
 TeamNaz|NAZNAGA
 TeamReady|GTASREME1
