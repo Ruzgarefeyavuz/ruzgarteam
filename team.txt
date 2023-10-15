@@ -1,7 +1,7 @@
-TeamBirlik|BirlikJoker98
-TeamTayfa|TAYFAPA52
+TeamBirlik|gttrbirlik1
+TeamTayfa|TAYFACE1
 TeamOx|OXOPEN16
-TeamYon|YONFOT
+TeamYon|YONUNO
 TeamJu|JuBeast
 TeamOcta|OctaSaw
 TeamRudy|RUDGO32
@@ -20,5 +20,5 @@ TeamCumback|CBTASAN
 TeamFlip|FLIPWIN7
 TeamPSP|PSPNOW
 TeamLUX|LUXACE
-TeamEND|ENDGAME5178
+TeamEND|ENDGAME478
 TeamLia|LIACENT
