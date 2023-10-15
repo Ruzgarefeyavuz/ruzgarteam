@@ -1,8 +1,8 @@
 TeamBirlik|gttrbirlik1
 TeamTayfa|TAYFACE1
-TeamOx|OXOPEN16
+TeamOx|OXLIVE1
 TeamYon|YONUNO
-TeamJu|JuBeast
+TeamJu|JuVery
 TeamOcta|OctaSaw
 TeamRudy|RUDGO32
 TeamCong|CONGJAN
