@@ -3,7 +3,7 @@ TeamTayfa|TAYFACE1
 TeamOx|OXLIVE1
 TeamYon|YONUNO
 TeamJu|JUCOZY
-TeamOcta|OCTAFEW
+TeamOcta|OCTACAD
 TeamRudy|RUDGO32
 TeamCong|CONGFUD
 TeamDrey|DREYGG91
