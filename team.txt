@@ -2,7 +2,7 @@ TeamBirlik|gttrbirlik1
 TeamTayfa|TAYFACE1
 TeamOx|OXLIVE1
 TeamYon|YONUNO
-TeamJu|JuVery
+TeamJu|JUCOZY
 TeamOcta|OCTAFEW
 TeamRudy|RUDGO32
 TeamCong|CONGFUD
@@ -11,7 +11,7 @@ TeamAsia|ASIABUS
 TeamDav|HUFGG98
 TeamEvo|EVOHOLY
 TeamBub|BUBDANA
-TeamNaz|NAZGAME2725
+TeamNaz|NAZSUNDA
 TeamReady|GTASREME1
 TeamPH|TXCOOL
 TeamAO|AOREBORN2
