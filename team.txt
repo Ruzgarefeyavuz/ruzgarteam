@@ -1,5 +1,5 @@
 TeamBirlik|gttrbirlik1
-TeamTayfa|TAYFACE2
+TeamTayfa|TAYFACE3
 TeamOx|OXLIVE1
 TeamYon|YONUNO
 TeamJu|JUCOZY
