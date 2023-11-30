@@ -2,7 +2,7 @@ TeamBirlik|gttrbirlik6
 TeamTayfa|TAYFACE20
 TeamOx|OXLIVE11
 TeamYon|YONGUM
-TeamJu|JUOATS
+TeamJu|JUBETTER
 TeamOcta|OCTAGAW
 TeamRudy|GORUD59
 TeamCong|CONGDEL
