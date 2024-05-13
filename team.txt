@@ -2,7 +2,7 @@ TeamBirlik|birlikhop1
 TeamTayfa|TAYFACAK3
 TeamOx|OXBOT6
 TeamYon|YONTOP1
-TeamSPIN|SPINUP2
+TeamSPIN|SPINUP3
 TeamJu|JUEROPA
 TeamOcta|OCTADAV
 TeamRudy|RUDGT45
