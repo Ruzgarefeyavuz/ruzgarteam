@@ -1,6 +1,6 @@
 TeamBirlik|birlikhop1
 TeamTayfa|TAYFACAK3
-TeamOX|OXBGL48
+TeamOX|OXBGL53
 TeamYon|YONTOP1
 TeamSPIN|SPINUP6
 TeamJu|JUEROPA
